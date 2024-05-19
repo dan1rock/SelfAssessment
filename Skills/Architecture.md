@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity *
+  - Components *
+  - Directories *
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code *
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,28 +18,28 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability *
+  - Quality *
+  - Availability *
+  - Flexibility *
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer *
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
+  - Multilayer approach *
+  - Hexagonal architecture ~
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming ~
   - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Dependency injection (DI) *
+  - Clean architecture +
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent ~
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ) ~
   - CQRS
   - Event sourcing
   - E-R data modeling
@@ -47,17 +47,17 @@
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Budget estimation +
+  - Distributed systems +
+  - High-intensive computing *
+  - Load balancing *
+  - Gateways +
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless +
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds *
   - BPMN
   - Low-code
   - No-code
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Understanding business needs *
+  - Enterprise strategy *
+  - Integration with subsystems *
+  - Enterprise vision +
+  - Enterprise capabilities +
+  - Project scope *
+  - Enterprise service bus ~
+  - Service-oriented architecture *
+  - Microservices *
   - Process choreography
   - Service orchestration
-  - Data warehouse
+  - Data warehouse *
   - Business Intelligence
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance *
   - Engineering Hygiene
