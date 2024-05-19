@@ -1,53 +1,53 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming *
-  - Imperative programming *
-  - Structured programming *
-  - Non-structured programming *
-  - Functional programming *
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming *
-  - Object-based programming *
-  - Generic programming *
-  - Concurrent computing *
-  - Asynchronous programming *
-  - Parallel programming *
-  - Reactive programming *
-  - Functional-reactive (FRP) ~
-  - Automata-based programming ~
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🖐️ used
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
-  - Multi-paradigm programming *
-  - Metaprogramming ~
-  - Actor model +
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Actor model: 🎓 known
   - Lambda calculus
   - Black box
   - Information hiding
-  - Aspect-oriented programming ~
+  - Aspect-oriented programming: 👂 heard
   - Anemic domain model
-  - Class composition ~
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor *
-  - Operator `new` *
-  - Static method *
-  - Method *
-  - Async method *
-  - Getters, Setters *
-  - Public fields *
-  - Private fields *
-  - Field declarations *
-  - Inheritance *
-  - Parent class *
-  - Polymorphism *
-  - Abstract class *
-  - Interface *
-  - Encapsulation *
-  - Hidden class *
-  - Object form *
-  - Instance *
-  - Introspection +
-  - Reflection *
-  - The diamond +
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 🖐️ used
+  - The diamond: 🎓 known
 - GRASP
   - Information expert
   - Creator
@@ -64,18 +64,18 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton *
-  - Factory Method +
-  - Abstract Factory ~ 
-  - Adapter ~
-  - Observer *
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
   - Strategy
   - Facade
-  - Proxy +
+  - Proxy: 🎓 known
   - Chain of Responsibility
-  - Command *
-  - Iterator *
-  - State *
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
   - Bridge
   - Builder
   - Prototype
